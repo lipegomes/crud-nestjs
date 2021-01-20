@@ -10,7 +10,7 @@ Você precisa do NodeJS e do NPM instalado em sua máquina.
 
 ```
 npm install
-npm run start
+npm start dev
 ```
 
 ## Construído com:
