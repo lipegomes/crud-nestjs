@@ -21,7 +21,7 @@ npm run start
 
 ## Licença
 
-Este projeto é licenciado sobre a licença MIT - veja [LICENSE.md](https://github.com/lipegomes/crud-nest/blob/main/LICENSE.md) para mais informações.
+Este projeto é licenciado sobre a licença MIT - veja [LICENSE.md](https://github.com/lipegomes/crud-nestjs/blob/main/LICENSE.md) para mais informações.
 
 ## Acknowledgments
 
