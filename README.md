@@ -13,10 +13,6 @@ npm install
 npm run start
 ```
 
-## Layout:
-
-O layout foi desenvolvido utilizando o Figma, os creditos do layout são do DevPleno. Você pode encontrar o arquivo [aqui](https://www.figma.com/file/HxvAYhS6l7UDI49u8uLdaC/palpite-box?node-id=0%3A1).
-
 ## Construído com:
 
 - [NestJS](https://nestjs.com/) - Node.js framework for building efficient, reliable and scalable server-side applications.
