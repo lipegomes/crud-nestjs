@@ -17,7 +17,7 @@ npm run start
 
 - [NestJS](https://nestjs.com/) - Node.js framework for building efficient, reliable and scalable server-side applications.
 - [MySQL](https://www.mysql.com/) - Open source relational database manager system.
-- [TypeSript](https://www.typescriptlang.org/) - Open source language which builds on JavaScript.
+- [TypeScript](https://www.typescriptlang.org/) - Open source language which builds on JavaScript.
 
 ## Licença
 
