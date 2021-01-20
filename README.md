@@ -10,7 +10,7 @@ Você precisa do NodeJS e do NPM instalado em sua máquina.
 
 ```
 npm install
-npm start dev
+npm run start
 ```
 
 ## Construído com:
@@ -21,7 +21,7 @@ npm start dev
 
 ## Licença
 
-Este projeto é licenciado sobre a licença MIT - veja [LICENSE.md](https://github.com/lipegomes/crud-nestjs/blob/master/LICENSE.md) para mais informações.
+Este projeto é licenciado sobre a licença MIT - veja [LICENSE.md](https://github.com/lipegomes/crud-nestjs/blob/main/LICENSE.md) para mais informações.
 
 ## Acknowledgments
 
